@@ -12,8 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  castle = ["I", "am", "really", "learning"]
-  caslte.unshift("wow")
+  castle = ["King", "Queen", "Bishop", "Knight"]
+  castle.unshift("Crown")
 end
 
 def remove_element_from_end_of_array(array)
