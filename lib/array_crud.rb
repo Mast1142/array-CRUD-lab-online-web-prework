@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["King", "Queen", "Bishop", "Knight"]
+  castle = ["King", "Queen", "Bishop", "Knight"]
 end
 
 def add_element_to_end_of_array(array, element)
-  ["King", "Queen", "Bishop", "Knight"]
+  castle = ["King", "Queen", "Bishop", "Knight"]
   <<"Rook"
 end
 
